@@ -8,7 +8,7 @@
 </head>
 <body>
 	<center>
-		<form action="Second.jsp">
+		<form action="HelloServlet" method="post">
 			<table>
 				<tr>
 					<th>First Name</th>
